@@ -1,2 +1,3 @@
 name = input("Enter your name: ")
-print(name * len( name))
+for i in name:
+   print(name)
