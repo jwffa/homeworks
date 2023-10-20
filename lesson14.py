@@ -1,3 +1,3 @@
 name = input("Enter your name: ")
-for i in name:
+for i in range(len(name)):
    print(name)
