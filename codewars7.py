@@ -1,4 +1,4 @@
-def example_sort(arr, example_arr):
+def example_sort(arr, example_arr): #6kyu
     my_arr = []
     for i in example_arr:
         if i in arr:
