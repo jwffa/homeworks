@@ -1,4 +1,4 @@
-def generate_hashtag(s):
+def generate_hashtag(s): #5kyu
     a = '#'
     s = s.title()
     if s == "":
