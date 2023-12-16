@@ -1,0 +1,24 @@
+body{
+    background-image: url(/wallhaven-lqvq8p.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#reg{
+    margin-top: 250px;
+}
+
+.labeltext{
+    color: rgb(213, 213, 213);
+    font-size: x-large;
+}
+
+input{
+    background-color: rgb(147, 147, 147);
+}
+
+#submitclick{
+    font-size: larger;
+    border-radius: 10%;
+}
